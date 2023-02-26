@@ -1,43 +1,56 @@
 ━━━━━━━━━━━━━━━━━━━━
+
 **ᴋɪɴɢ ᴀʙɪsʜɴᴏɪ**
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 
 <h2 align="center">
     ──「 ᴇxᴏɴ   ʀᴏʙᴏᴛ 」──
 </h2>
 
-
 ##  ᴄᴀᴛᴄʜ ᴍᴇ ɪɴ [ᴛɢ🏃‍♀️](https://t.me/AbishnoiMF) 
 
-## [ғᴏʀ ᴜᴘᴅᴀᴛᴇ](https://t.me/Abishnoi_bots)  
+## sᴛᴀᴛs
 
-## ⚡ (ɢɪᴠᴇ sᴛᴀʀ)
+[![ɢɪᴛʜᴜʙ ғᴏʀᴋs](https://img.shields.io/github/forks/Abishnoi69/ExonRobot.svg?style=social&label=ғᴏʀᴋs&maxAge=25920000)](https://github.com/Abishnoi69/ExonRobot/network/) [![ɢɪᴛʜᴜʙ sᴛᴀʀs](https://img.shields.io/github/stars/Abishnoi69/ExonRobot.svg?style=social&label=sᴛᴀʀs&maxAge=25920000)](https://github.com/Abishnoi69/ExonRobot/stargazers/) [![ɢɪᴛʜᴜʙ ᴡᴀᴛᴄʜᴇʀs](https://img.shields.io/github/watchers/Abishnoi69/ExonRobot.svg?style=social&label=ᴡᴀᴛᴄʜ&maxAge=25920000)](https://github.com/Abishnoi69/ExonRobot/watchers/)
+[![ᴍᴀɪɴᴛᴇɴᴀɴᴄᴇ](https://img.shields.io/badge/ᴍᴀɪɴᴛᴀɪɴᴇᴅ%3F-yes-red.svg)](https://github.com/Abishnoi69/ExonRobot/graphs/commit-activity)
 
 _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ᴇxᴏɴ ✘ ʀᴏʙᴏᴛ](https://t.me/Exon_Robot)**_
-━━━━━━━━━━━━━━━━━━━━
-<h3 align="center"> 
-    𝗚𝗥𝗢𝗨𝗣  𝗠𝗔𝗡𝗔𝗚𝗘𝗥    
-</h3>
-
-━━━━━━━━━━━━━━━━━━━━
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
 
 <p align="center">
 <b>𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 𝗠𝗘𝗧𝗛𝗢𝗗𝗦</b>
 </p>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
+<details>
+<summary><h3>
+- <b>  ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ </b>
+</h3></summary>
 
 <p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Abishnoi69/ExonRobot"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
+
+</details>
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<h3 align="center">
+    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʀᴀɪʟᴡᴀʏ 」─
+</h3>
+<details>
+<summary><h3>
+- <b>  ᴅᴇᴩʟᴏʏ ᴏɴ ʀᴀɪʟᴡᴀʏ </b>
+</h3></summary>
+
+<p align="center"><a href="https://railway.app/new/template=https://github.com/Abishnoi69/ExonRobot"> <img src="https://img.shields.io/badge/Deploy%20On%20Railway-black?style=for-the-badge&logo=Railway" width="220" height="38.45"/></a></p>
+
+
+</details>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h3 align="center">
     ─「 ⇝ ɪɴsᴛᴀʟʟ ʟᴏᴄᴀʟʟʏ ᴏʀ ᴏɴ ᴀ ᴠᴘs ⇜ 」─
@@ -93,27 +106,8 @@ _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ᴇxᴏɴ ✘ ʀᴏ
 - `python3 -m Exon`
 
 - -ғᴏʀ ᴜᴘᴅᴀᴛᴇ ʏᴏᴜʀ ɴᴇᴡ ᴄᴏᴍᴍɪᴛ ᴜsᴇ :→ `git pull`
-
-
-
-
-
-
-
-
-
-
-
-
 ━━━━━━━━━━━━━━━━━━━━
-
-
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
-
 
 
 <h2 align="center"> 
@@ -130,13 +124,7 @@ TOKEN =  ʏᴏᴜʀ ʙᴏᴛ ᴛᴏᴋᴇɴ. ɢᴇᴛ ᴏɴᴇ ғʀᴏᴍ @BotFa
 OWNER_USERNAME =  ʏᴏᴜʀ ᴛᴇʟᴇɢʀᴀᴍ ᴜsᴇʀɴᴀᴍᴇ ᴡɪᴛʜᴏᴜᴛ ᴛʜᴇ @
 OWNER_ID =  sᴛᴀʀᴛ @Exon_Robot & ᴛʏᴘᴇ /id 
 ```
-
-
-
 </details>
-
-
-
 ━━━━━━━━━━━━━━━━━━━━
 
 <h3 align="center">
@@ -155,6 +143,18 @@ OWNER_ID =  sᴛᴀʀᴛ @Exon_Robot & ᴛʏᴘᴇ /id
 ━━━━━━━━━━━━━━━━━━━━
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<h2 align="center"> 
+   ⇝ 2 ʙʀᴀɴᴄʜ ᴀᴠᴀɪʟᴀʙʟᴇ  ⇜
+</h2>
+
+```
+1. sᴛᴀʙʟᴇ  ʙʀᴀɴᴄʜ : ᴏʟᴅ ᴠᴇʀsɪᴏɴ & sᴛᴀʙʟᴇ
+2. ᴍᴀɪɴ ʙʀᴀɴᴄʜ : ᴏɴ ᴜᴘᴅᴀᴛᴇ
+ 
+```
+
+
 ━━━━━━━━━━━━━━━━━━━━
 <h3 align="center">
     ─「 ᴄʀᴇᴅɪᴛs 」─
@@ -165,6 +165,6 @@ OWNER_ID =  sᴛᴀʀᴛ @Exon_Robot & ᴛʏᴘᴇ /id
 
 ➥ [𝐀ɴᴏɴʏᴍᴏᴜs] × <a href="http://github.com/AnonymousX1025/FallenRobot" alt="AnonymousX1025"> <img src="https://img.shields.io/badge/Anonymous-90302f?logo=github" /></a>  
 
-➥ [𝐁ʟᴀᴄᴋ ʙᴜʟʟs] × <a href="https://github.com/Black-Bulls-Bots/zerotwobot" alt="Black-Bulls-Bots"> <img src="https://img.shields.io/badge/BlackBullsBots-90302f?logo=github" /></a>  
 
+➥ [𝐏ᴀᴜʟsᴏɴᴏғʟᴀʀs] × <a href="https://github.com/PaulSonOfLars/tgbot" alt="PaulSonOfLars"> <img src="https://img.shields.io/badge/PaulSonOfLars-90302f?logo=github" /></a>  
 ━━━━━━━━━━━━━━━━━━━━
