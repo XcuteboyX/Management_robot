@@ -50,7 +50,7 @@ if sys.version_info[0] < 3 or sys.version_info[1] < 6:
     quit(1)
 
 LOGGER.info(f"ᴠᴇʀsɪᴏɴ: 2.69")
-LOGGER.info("sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ: https://github.com/Abishnoi69/ExonRobot\n")
+LOGGER.info("sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ: https://github.com\n")
 LOGGER.info("ᴇxᴏɴ ɪs sᴛᴀʀᴛɪɴɢ. | ᴀɴ ᴀʙɪsʜɴᴏɪᴍғ ᴘʀᴏᴊᴇᴄᴛ ᴘᴀʀᴛs. | ")
 
 # ᴠᴇʀs
