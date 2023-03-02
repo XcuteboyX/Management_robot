@@ -258,7 +258,7 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
                         ),
                         InlineKeyboardButton(
                             text="ᴜᴘᴅᴀᴛᴇꜱ",
-                            url=f"https://t.me/AbishnoiMF",
+                            url=f"https://t.me/the_update_silencer",
                         ),
                     ],
                     [
@@ -672,7 +672,7 @@ def main():
 
 if __name__ == "__main__":
     LOGGER.info(
-        "sᴜᴄᴄᴇssғᴜʟʟʏ ʟᴏᴀᴅᴇᴅ ᴍᴏᴅᴜʟᴇs ɪғ sʜᴏᴡ ᴀɴʏ ᴇʀʀᴏʀ ʀᴇᴘᴏʀᴛ ᴀᴛ - @AbishnoiMF :"
+        "sᴜᴄᴄᴇssғᴜʟʟʏ ʟᴏᴀᴅᴇᴅ ᴍᴏᴅᴜʟᴇs ɪғ sʜᴏᴡ ᴀɴʏ ᴇʀʀᴏʀ ʀᴇᴘᴏʀᴛ ᴀᴛ - @X_TEAM_IMMORTALS_X :"
     )
     app.start()
     telethn.start(bot_token=TOKEN)
